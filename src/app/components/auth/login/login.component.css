@@ -1,0 +1,29 @@
+.form-login {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.form-control {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+h4 {
+  text-align: center;
+  color: white;
+  padding: 10px;
+}
+
+.error {
+  color: darkred;
+  text-align: center;
+  padding: 10px;
+  background-color: rgb(255, 171, 171);
+}
+
+.error_message {
+  color: #bd2828;
+  text-align: center;
+}
